@@ -13,7 +13,13 @@ This Code Refactor Project shows how I like to reuse/reorganize code in order to
 - Changed the <h2> in the Footer section to <h4> in order to follow sequential order with the other headre elemtns.
 - Updated the content in the <title> element to reflect the company and what they do.
 - Removed id's within each <article> in the Content Area.
-- Added alt attributes to <img> elements in Content Area.
+- Added alt attributes to <img> elements in the Content Area.
 - After viewing the pictures on the website, I determined that they are all decorational. Therefore their alt attribute's should stay empty.
-- Consolidated CSS for the Content Area by making new classes for the HTML.
-- 
+- Consolidated CSS for the Content Area by making new classes for the HTML, and refering to them in CSS.
+- For the Aside section, I changed the parent <div> to Semantic Element <aside>.
+- I changed the child <div> elements in the Aside section to <section> Semantic elements.
+- Added alt attributes to <img> elements in the Aside Area.
+- After viewing the pictures on the website, I determined that they are all decorational. Therefore their alt attribute's should stay empty.
+- Consolidated CSS for the Aside Area by making new classes for the HTML, and refering to them in CSS.
+- For the Footer section, I changed the parent <div> element to Semantic element <footer>.
+- I changed the <h2> tag in the Footer section to a <h4> in order to follow the header hierarchy.
