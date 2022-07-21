@@ -23,3 +23,8 @@ This Code Refactor Project shows how I like to reuse/reorganize code in order to
 - Consolidated CSS for the Aside Area by making new classes for the HTML, and refering to them in CSS.
 - For the Footer section, I changed the parent <div> element to Semantic element <footer>.
 - I changed the <h2> tag in the Footer section to a <h4> in order to follow the header hierarchy.
+
+Here is a link to the deployed website: https://calebfunderburk.github.io/Horiseon-Code-Refactor-Fun-Time/
+
+Screenshot of website: 
+![Screenshot of Horiseon's Website](horiseon-screenshot.png)
