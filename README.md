@@ -27,4 +27,4 @@ This Code Refactor Project shows how I like to reuse/reorganize code in order to
 Here is a link to the deployed website: https://calebfunderburk.github.io/Horiseon-Code-Refactor-Fun-Time/
 
 Screenshot of website: 
-![Screenshot of Horiseon's Website](horiseon-screenshot.png)
+![Screenshot of Horiseon's Website](assets/images/horiseon-screenshot.png)
