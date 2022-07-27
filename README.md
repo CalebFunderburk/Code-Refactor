@@ -1,4 +1,4 @@
-# Code-Refactor
+# Daisy
 This Code Refactor Project shows how I like to reuse/reorganize code in order to create a more legible code base and accesible website. My job here was to read through the code base and adjust it without making any changes to the page it self. A lot of what I did involved me changing general tags like <div> to Semantic tags like <header>, <section>, and <article> in order to make the code base more legible and the website more accesible. I also went through the CSS style sheet to see what styles could be reused by elements in the HTML. Here is a list of things I went through and changed:
 - I started by going through the code and adding comments so I know what is where.
 - Next I reoragnized the CSS code in order to keep like items with like items.
